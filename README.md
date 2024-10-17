@@ -1,8 +1,12 @@
-## Hi there 👋 My name is Vo Tuan and I was born in 2000. Welcome to my little house  😊
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- ⚡ Fun fact: ...
+## Hi there 👋 Welcome to my little house  😊
+My name is Vo Tuan. I'm a Data Analyst at the entry level and continuously improving myself 😉. Therefore, I ❤️ communicating with data and presenting its fun facts to people who are interested. 
+- 🔭 I’m currently working on data-related tasks like cleaning data from insurance software, creating and tracking annual and monthly report, handling ad-hoc analysis using SQL etc.... ,  at an insurance office.
+- 🌱 I’m currently learning how to automate the execution of the tasks above with Python and convey insights to stakeholders in an effective way.🤓
+- 👯 I’m looking to collaborate on a data analyst role in the product team. That's what I desire 😁
+- ⚡ Fun fact: I love this job even though it might be unrelated to my field ❤️❤️❤️❤️❤️
+- 📫 How to reach me: You can contact me via my email: votuan666333@gmail.com
+
+  Thank You and I Love You!
 <!--
 **VoTuan0512/VoTuan0512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
